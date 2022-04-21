@@ -1,4 +1,10 @@
-### Hi there 👋
+### 👋 Hi there, I'm James Robiony-Rogers
+
+### 🎓 I'm currently studying Software Engineering and Computer Science at the University of Otago 
+
+### 🌱 I’m currently learning React.js 
+
+### 🔭 I’m currently working on a web portfolio
 
 <!--
 **JamisBuggerlugs/JamisBuggerlugs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
