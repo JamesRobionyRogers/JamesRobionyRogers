@@ -4,7 +4,7 @@
 
 🌱 Learning React.js, Java and Python
 
-🔭 Working on a web portfolio using React.js
+🔭 Working a MERN stack project in React.js
 
 <!--
 **JamisBuggerlugs/JamisBuggerlugs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
