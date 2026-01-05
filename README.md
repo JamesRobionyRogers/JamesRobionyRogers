@@ -1,10 +1,12 @@
 <h1 style="margin:0, auto;">👋 Hi, I'm James</h1>
 
-🎓 I'm currently studying Software Engineering and Computer Science at the University of Otago 
+🎓 In 2024 I graduated from the University of Otago with a Bachelor of Science in Software Engineering and Computer Science
 
-🌱 Learning React.js, Java and Python
+💻 I'm now working on a whole range of things as a Software Enginner in Wellington, New Zealand
 
-🔭 Working a MERN stack project in React.js
+🌱 In my day to day I am learning programming in Go and how to create data pipelines in Numaflow
+
+🔭 Outside of work I am working on little iOS side projects, Mountain Biking, Snowboarding, Tramping or playing Hockey
 
 <!--
 **JamisBuggerlugs/JamisBuggerlugs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
